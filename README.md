@@ -3,3 +3,5 @@
  
  This model is basically used to automate the traffic according to vehicle density and extra preference given to ambualnce i.e. it will open that firstly in which ambulance is detected.
  
+I have make this model using tensorflow.
+
