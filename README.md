@@ -19,6 +19,6 @@ Note:
 For training purpose gpu in laptop required,if it is not present then use google colab.I had used google colab for my project.
 Google colab provide you gpu online and other libraries which you want, you just have to import.
 
-For watching my output model, link:  https://www.youtube.com/watch?v=zcCWJ-Tb8fc
+For watching output, link:  https://www.youtube.com/watch?v=zcCWJ-Tb8fc
 Thanks
 
